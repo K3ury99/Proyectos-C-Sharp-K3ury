@@ -6,10 +6,12 @@ Console.WriteLine("3. Pulgadas");
 Console.WriteLine("4. Millas");
 Console.WriteLine("5. Centímetros");
 Console.WriteLine("6. Kilómetros");
+Console.Write("---> ");
 
 int inputOption = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("---Ingrese la longitud: ");
+Console.Write("---> ");
 
 double inputLength = Convert.ToDouble(Console.ReadLine());
 double result = 0;
@@ -21,6 +23,7 @@ Console.WriteLine("3. Pulgadas");
 Console.WriteLine("4. Millas");
 Console.WriteLine("5. Centímetros");
 Console.WriteLine("6. Kilómetros");
+Console.Write("---> ");
 
 int outputOption = Convert.ToInt32(Console.ReadLine());
 
@@ -112,7 +115,7 @@ switch (inputOption)
                 break;
             case 6: // Pulgadas a Kilómetros
                 result = inputLength * 0.0000254;
-                Console.WriteLine("{0} pies son {1} kilómetros.", inputLength, result);
+                Console.WriteLine("{0} pulgadas son {1} kilómetros.", inputLength, result);
                 break;
             default:
                 Console.WriteLine("Opción no válida.");
@@ -143,7 +146,7 @@ switch (inputOption)
                 break;
             case 6: // Millas a Kilómetros
                 result = inputLength * 1.60934;
-                Console.WriteLine("{0} pies son {1} kilómetros.", inputLength, result);
+                Console.WriteLine("{0} millas son {1} kilómetros.", inputLength, result);
                 break;
             default:
                 Console.WriteLine("Opción no válida.");
@@ -174,7 +177,7 @@ switch (inputOption)
                 break;
             case 6: // Centímetros a Kilómetros
                 result = inputLength / 100000;
-                Console.WriteLine("{0} pies son {1} kilómetros.", inputLength, result);
+                Console.WriteLine("{0} centímetros son {1} kilómetros.", inputLength, result);
                 break;
             default:
                 Console.WriteLine("Opción no válida.");
@@ -198,7 +201,7 @@ switch (inputOption)
                 break;
             case 4: // Kilómetros a Millas
                 result = inputLength * 0.621371;
-                Console.WriteLine("{0} kilómetros son {1} centímetros.", inputLength, result);
+                Console.WriteLine("{0} kilómetros son {1} Millas.", inputLength, result);
                 break;
             case 5: // Kilómetros a Centímetros
                 result = inputLength * 100000;

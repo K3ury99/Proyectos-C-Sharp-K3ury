@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos\\Conversor\\Conversor.csproj",
-      "projectName": "Conversor",
-      "projectPath": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos\\Conversor\\Conversor.csproj",
+      "projectUniqueName": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos\\ConversorLongitudes\\ConversorLongitudes.csproj",
+      "projectName": "ConversorLongitudes",
+      "projectPath": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos\\ConversorLongitudes\\ConversorLongitudes.csproj",
       "packagesPath": "C:\\Users\\Keury\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos\\Conversor\\obj\\",
+      "outputPath": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos\\ConversorLongitudes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Keury\\AppData\\Roaming\\NuGet\\NuGet.Config"
