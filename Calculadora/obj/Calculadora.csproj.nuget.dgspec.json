@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos\\Conversor\\Conversor.csproj": {}
+    "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos\\Conversor\\Conversor.csproj": {
+    "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos\\Conversor\\Conversor.csproj",
-        "projectName": "Conversor",
-        "projectPath": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos\\Conversor\\Conversor.csproj",
+        "projectUniqueName": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos\\Calculadora\\Calculadora.csproj",
+        "projectName": "Calculadora",
+        "projectPath": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\Keury\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos\\Conversor\\obj\\",
+        "outputPath": "C:\\Users\\Keury\\Desktop\\Clases\\ITLA\\3er - Cuatrimestre\\Programacion 1\\Proyectos\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Keury\\AppData\\Roaming\\NuGet\\NuGet.Config"

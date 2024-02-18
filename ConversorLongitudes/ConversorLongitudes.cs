@@ -1,4 +1,5 @@
 ﻿//Este es un conversor que nos permite convertir cualquier longitud en otra. KR
+Console.Clear();// Limpia la consola para mejor presentacion
 Console.WriteLine("---Seleccione la unidad de longitud que desea convertir: ");
 Console.WriteLine("1. Metros");
 Console.WriteLine("2. Pies");
