@@ -1,5 +1,5 @@
-﻿
-
+﻿//Este es un pequeño proyecto sonre adivinanzas que muestra 1 numero al azar y nos dice que tan cerca estamos de el hasta acertar.
+Console.Clear();// Limpia la consola para mejor presentacion
 Random random = new Random(); //Nos da un numero random
 int NumeroRandom = random.Next(1, 101);//Nos da un numero random del 1 al 100 a la variable "NumeroRandom"
 
